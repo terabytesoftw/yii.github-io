@@ -1,6 +1,6 @@
 title: "YiiFrameWork Documentation"
 logo: /images/logo.png
-remote_theme: pmarsceill/just-the-docs
+remote_theme: Labs64/NetLicensing-Wiki-template
 
 # Footer content appears at the bottom of every page's main content
 site_footer: "Copyright &copy; 2010 <a href=\"https://yiipeople.com\">YiiPeople</a>"
