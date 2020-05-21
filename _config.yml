@@ -3,4 +3,4 @@ logo: /images/logo.png
 remote_theme: pmarsceill/just-the-docs
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2010 <a href=\"https://yiipeople.com\">YiiPeople</a>"
+site_footer: "Copyright &copy; 2010 <a href=\"https://yiipeople.com\">YiiPeople</a>"
