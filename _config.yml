@@ -7,4 +7,11 @@ logo: /images/logo.png
 remote_theme: terabytesoftw/just-the-docs
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 <a href=\"https://http://docs.yiipeople.site/\">YiiPeople</a>"
+footer_content: "Copyright &copy; 2020: <a href=\"https://http://docs.yiipeople.site/\">YiiPeople</a>"
+
+# footer links for the page bottom navigation
+footer_links:
+  "YiiFramework Web Site":
+    - "https://www.yiiframework.com/"
+  "Slack":
+    - "https://app.slack.com/client/T6JAZ2ZFH"
