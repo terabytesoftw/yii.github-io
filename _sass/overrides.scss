@@ -1,3 +1,13 @@
 .navigation-list-link.active {
     color: white;
 }
+
+th, td {
+    padding-top: .5rem;
+    padding-right: .75rem;
+    padding-bottom: .5rem;
+    padding-left: .75rem;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(238,235,238,0.5);
+    border-left: 1px solid #eeebee;
+}
